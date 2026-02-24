@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Tau-Router"
+message: "If you use this software, please cite it using the metadata below."
+type: software
+authors:
+  - family-names: Ames
+    given-names: David
+repository-code: "https://github.com/davidames0523/tau-router"
+license: MIT
+version: 0.3.0

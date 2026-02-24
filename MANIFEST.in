@@ -1,0 +1,6 @@
+include README.md LICENSE CHANGELOG.md CONTRIBUTING.md CITATION.cff Makefile
+recursive-include src *.py
+recursive-include tests *.py
+recursive-include examples *.py
+recursive-include scripts *.py *.sh
+recursive-include .github/workflows *.yml

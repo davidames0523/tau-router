@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.venv/
+venv/
+
+# Builds
+build/
+dist/
+*.whl
+*.tar.gz
+
+# Bench outputs
+bench_runs/
+*.csv
+*.md
+
+# Editors / OS
+.DS_Store
+.vscode/
+.idea/
