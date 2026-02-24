@@ -93,7 +93,7 @@ where $\tau(k)$ is the number of positive divisors of $k$.
 3. The state space is partitioned into disjoint basins indexed by divisors of $k$:
 
 $$
-\Large \mathcal{B}_g = \left\{(x_0, x_1) : \gcd(x_0, x_1, k) = g \right\}, \qquad g \mid k
+\Large \mathcal{B}_g = \{(x_0, x_1) : \gcd(x_0, x_1, k) = g \}, \qquad g \mid k
 $$
 
 ### Why this matters for the system
